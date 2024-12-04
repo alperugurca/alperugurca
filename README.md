@@ -14,9 +14,13 @@
 
  **<h3 align="left">Innovative entrepreneur with a multidisciplinary background spanning business, technology, science, and art.</h3>**
 
- **<h3 align="left">Skills:</h3>**
+
+<div style="height: 5px; background: linear-gradient(to right, #0077B5, #ddd); margin: 20px 0;"></div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="32" alt="Pandas" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="32" alt="TensorFlow" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="32" alt="PyTorch" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="32" alt="Scikit-learn" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" height="32" alt="Keras" style="margin-right: 4px"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="32" alt="OpenCV" style="margin-right: 4px"> <img src="https://img.shields.io/badge/NLTK-4B8BBE?logo=nltk&logoColor=white" height="32" alt="NLTK" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Hugging_Face-FF6F91?logo=huggingface&logoColor=white" height="32" alt="Hugging Face" style="margin-right: 4px"></div>
+
+<div style="height: 5px; background: linear-gradient(to right, #0077B5, #ddd); margin: 20px 0;"></div>
+
 
  **<h3 align="left">GitHub Stats:</h3>**
 
