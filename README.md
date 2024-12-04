@@ -41,7 +41,8 @@ I'm an indie full-stack developer and content creator building my version of the
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Why I’m Learning Rust in 2024 (and new dev environment)](https://ytcards.demolab.com/?id=jfKfPfyJRdk&title=Why+I%E2%80%99m+Learning+Rust+in+2024+%28and+new+dev+environment%29&lang=en&timestamp=1732550404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1013 "Why I’m Learning Rust in 2024 (and new dev environment)")](https://www.youtube.com/watch?v=jfKfPfyJRdk)
+[![Why I’m Learning Rust in 2024 (and new dev environment)](https://ytcards.demolab.com/?id=jfKfPfyJRdk&title=lofi hip hop radio 📚 beats to relax/study to
+&lang=en&timestamp=1732550404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1013 "Why I’m Learning Rust in 2024 (and new dev environment)")](https://www.youtube.com/watch?v=jfKfPfyJRdk)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
