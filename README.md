@@ -1,7 +1,3 @@
-![Alper Ugurcan]
-
-<hr style="border: 1px solid #ddd; margin: 20px 0;">
-
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
