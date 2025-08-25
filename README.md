@@ -25,4 +25,4 @@
 
 <hr style="border: 1px solid #ddd; margin: 20px 0;">
 
-![a](output.gif)
+![GIF](output.gif)
