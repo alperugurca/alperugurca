@@ -25,4 +25,6 @@
 
 <hr style="border: 1px solid #ddd; margin: 20px 0;">
 
-![GIF](output.gif)
+<div align="center">
+  <img src="output.gif" alt="GIF">
+</div>
