@@ -24,8 +24,3 @@
 </p>
 
 <hr style="border: 1px solid #ddd; margin: 20px 0;">
-
-<div align="center">
-  <img height="325" src="https://josephszabophotos.com/wp-content/uploads/2018/09/A6.jpg" />
-  <p><strong>Joseph Szabo</strong><br><em>Priscilla, 1969</em></p>
-</div>
