@@ -12,6 +12,9 @@
 
  **<h3 align="left">Innovative entrepreneur with a multidisciplinary background spanning business, technology, science, and art.</h3>**
 
+# All
+- [All Repos](https://github.com/alperugurca?tab=repositories)
+
 # Projects
 
 - **[thenudge](https://github.com/alperugurca/thenudge)** - Create notes with alarms to remind. Windows app.
@@ -19,7 +22,8 @@
 - **[HopKey](https://github.com/alperugurca/HopKey)** - Create a shortcut in Chrome to open website(e.g. type "g", enter, opens google). Chrome extension.
 - **[alper](https://github.com/alperugurca/alper)** - Download music or video from a YouTube link with one command. Python package.
 - **[pomodoro-pal](https://github.com/alperugurca/pomodoro-pal)** - A focus timer in the browser (work / break rounds). Web app.
-- [All Repos](https://github.com/alperugurca?tab=repositories)
+
 <div align="center">
   <img src="output.gif" alt="GIF">
 </div>
+- [All Repos](https://github.com/alperugurca?tab=repositories)
