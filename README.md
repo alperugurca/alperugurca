@@ -13,7 +13,6 @@
  **<h3 align="left">Innovative entrepreneur with a multidisciplinary background spanning business, technology, science, and art.</h3>**
 
 # Projects
-[All Repos](https://github.com/alperugurca?tab=repositories)
 
 - **[thenudge](https://github.com/alperugurca/thenudge)** — Little notes and alarms on your PC.
 - **[PushToTalkSTT](https://github.com/alperugurca/PushToTalkSTT)** — Speak in English and turn it into text while offline.
@@ -22,6 +21,7 @@
 - **[playground](https://github.com/alperugurca/playground)** — A private folder for trying ideas: notebooks, small tests, and scripts.
 - **[pomodoro-pal](https://github.com/alperugurca/pomodoro-pal)** — A focus timer in the browser (work / break rounds).
 
+- [All Repos](https://github.com/alperugurca?tab=repositories)
 <div align="center">
   <img src="output.gif" alt="GIF">
 </div>
