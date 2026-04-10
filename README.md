@@ -14,8 +14,8 @@
 
 # Projects
 
-- **[thenudge](https://github.com/alperugurca/thenudge)** — Little notes and alarms on your PC.
-- **[PushToTalkSTT](https://github.com/alperugurca/PushToTalkSTT)** — Speak in English and turn it into text while offline.
+- **[thenudge](https://github.com/alperugurca/thenudge)** — Create notes with alarms to remind. Windows app.
+- **[PushToTalkSTT](https://github.com/alperugurca/PushToTalkSTT)** — Offline speech-to-text app. Windows app. High system requirements.
 - **[HopKey](https://github.com/alperugurca/HopKey)** — In Chrome, type a short letter code in the address bar and open a website you saved (like a speed dial).
 - **[alper](https://github.com/alperugurca/alper)** — Download music or video from a YouTube link with simple commands.
 - **[pomodoro-pal](https://github.com/alperugurca/pomodoro-pal)** — A focus timer in the browser (work / break rounds).
