@@ -18,7 +18,6 @@
 - **[PushToTalkSTT](https://github.com/alperugurca/PushToTalkSTT)** — Speak in English and turn it into text while offline.
 - **[HopKey](https://github.com/alperugurca/HopKey)** — In Chrome, type a short letter code in the address bar and open a website you saved (like a speed dial).
 - **[alper](https://github.com/alperugurca/alper)** — Download music or video from a YouTube link with simple commands.
-- **[playground](https://github.com/alperugurca/playground)** — A private folder for trying ideas: notebooks, small tests, and scripts.
 - **[pomodoro-pal](https://github.com/alperugurca/pomodoro-pal)** — A focus timer in the browser (work / break rounds).
 
 - [All Repos](https://github.com/alperugurca?tab=repositories)
