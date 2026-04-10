@@ -12,12 +12,22 @@
 
  **<h3 align="left">Innovative entrepreneur with a multidisciplinary background spanning business, technology, science, and art.</h3>**
 
+# Projects
 
-<hr style="border: 1px solid #ddd; margin: 20px 0;">
+Same style as: *OpenClaw / VibeTunnel* — one link, one line.  
+Source: [github.com/alperugurca?tab=repositories](https://github.com/alperugurca?tab=repositories)
 
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="32" alt="Pandas" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="32" alt="TensorFlow" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="32" alt="PyTorch" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="32" alt="Scikit-learn" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" height="32" alt="Keras" style="margin-right: 4px"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="32" alt="OpenCV" style="margin-right: 4px"> <img src="https://img.shields.io/badge/NLTK-4B8BBE?logo=nltk&logoColor=white" height="32" alt="NLTK" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Hugging_Face-FF6F91?logo=huggingface&logoColor=white" height="32" alt="Hugging Face" style="margin-right: 4px"></div>
+- **[thenudge](https://apps.microsoft.com/detail/9PJRXFWJ0LLD)** — Notes and reminders in the tray. Everything stays on your PC.
+- **[PushToTalkSTT](https://github.com/alperugurca/PushToTalkSTT)** — Local speech-to-text, push-to-talk style.
+- **[HopKey](https://chromewebstore.google.com/detail/hopkey/kpmajkalabbfcboenpcngkehjcdflodf)** — One Chrome shortcut key, one site—instant redirect.
+- **[alper](https://pypi.org/project/alper)** — YouTube audio/video down-CLI built on yt-dlp.
+- **[playground](https://github.com/alperugurca/playground)** — Personal sandbox for notebooks and spikes.
+- **[pomodoro-pal](https://github.com/alperugurca/pomodoro-pal)** — Pomodoro timer, TypeScript.
+- **[alperugurcan.com.tr](http://alperugurcan.com.tr/)** — Personal website.
+- **[textarea](https://github.com/alperugurca/textarea)** — HTML textarea / UI experiments.
 
-<hr style="border: 1px solid #ddd; margin: 20px 0;">
+**Tip:** Copy the bullet list into [`alperugurca/alperugurca`](https://github.com/alperugurca/alperugurca) `README.md` to show it on your profile.
+
 
 <div align="center">
   <img src="output.gif" alt="GIF">
