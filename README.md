@@ -15,17 +15,12 @@
 # Projects
 [All Repos](https://github.com/alperugurca?tab=repositories)
 
-- **[thenudge](https://apps.microsoft.com/detail/9PJRXFWJ0LLD)** — Notes and reminders in the tray. Everything stays on your PC.
-- **[PushToTalkSTT](https://github.com/alperugurca/PushToTalkSTT)** — Local speech-to-text, push-to-talk style.
-- **[HopKey](https://chromewebstore.google.com/detail/hopkey/kpmajkalabbfcboenpcngkehjcdflodf)** — One Chrome shortcut key, one site—instant redirect.
-- **[alper](https://pypi.org/project/alper)** — YouTube audio/video down-CLI built on yt-dlp.
-- **[playground](https://github.com/alperugurca/playground)** — Personal sandbox for notebooks and spikes.
-- **[pomodoro-pal](https://github.com/alperugurca/pomodoro-pal)** — Pomodoro timer, TypeScript.
-- **[alperugurcan.com.tr](http://alperugurcan.com.tr/)** — Personal website.
-- **[textarea](https://github.com/alperugurca/textarea)** — HTML textarea / UI experiments.
-
-**Tip:** Copy the bullet list into [`alperugurca/alperugurca`](https://github.com/alperugurca/alperugurca) `README.md` to show it on your profile.
-
+- **[thenudge](https://github.com/alperugurca/thenudge)** — Little notes and alarms on your PC.
+- **[PushToTalkSTT](https://github.com/alperugurca/PushToTalkSTT)** — Speak in English and turn it into text while offline.
+- **[HopKey](https://github.com/alperugurca/HopKey)** — In Chrome, type a short letter code in the address bar and open a website you saved (like a speed dial).
+- **[alper](https://github.com/alperugurca/alper)** — Download music or video from a YouTube link with simple commands.
+- **[playground](https://github.com/alperugurca/playground)** — A private folder for trying ideas: notebooks, small tests, and scripts.
+- **[pomodoro-pal](https://github.com/alperugurca/pomodoro-pal)** — A focus timer in the browser (work / break rounds).
 
 <div align="center">
   <img src="output.gif" alt="GIF">
