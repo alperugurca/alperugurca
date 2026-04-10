@@ -13,9 +13,7 @@
  **<h3 align="left">Innovative entrepreneur with a multidisciplinary background spanning business, technology, science, and art.</h3>**
 
 # Projects
-
-Same style as: *OpenClaw / VibeTunnel* — one link, one line.  
-Source: [github.com/alperugurca?tab=repositories](https://github.com/alperugurca?tab=repositories)
+[All Repos](https://github.com/alperugurca?tab=repositories)
 
 - **[thenudge](https://apps.microsoft.com/detail/9PJRXFWJ0LLD)** — Notes and reminders in the tray. Everything stays on your PC.
 - **[PushToTalkSTT](https://github.com/alperugurca/PushToTalkSTT)** — Local speech-to-text, push-to-talk style.
