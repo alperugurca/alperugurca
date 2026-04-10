@@ -26,4 +26,3 @@
 <div align="center">
   <img src="output.gif" alt="GIF">
 </div>
-- [AllRepos](https://github.com/alperugurca?tab=repositories)
