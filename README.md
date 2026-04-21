@@ -17,6 +17,7 @@
 
 # Projects
 
+- **[c64TavernTales](https://github.com/alperugurca/c64TavernTales)** - Retro Idle RPG game. Web app.
 - **[thenudge](https://github.com/alperugurca/thenudge)** - Create notes with alarms to remind. Windows app.
 - **[PushToTalkSTT](https://github.com/alperugurca/PushToTalkSTT)** - Offline speech-to-text app. High system requirements. Windows app.
 - **[HopKey](https://github.com/alperugurca/HopKey)** - Create a shortcut in Chrome to open website(e.g. type "g", enter, opens google). Chrome extension.
