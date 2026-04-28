@@ -8,7 +8,11 @@
   </ul>
 </div>
 
-<p align="center"><a href="https://www.linkedin.com/in/alperugurcan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alperugurcan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>
+  <a href="https://huggingface.co/alperugurcan" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white" height="28"></a>
+  <a href="https://www.kaggle.com/alperugurca" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="28"></a>
+</p>
 
  **<h3 align="left">Innovative entrepreneur with a multidisciplinary background spanning business, technology, science, and art.</h3>**
 
