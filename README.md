@@ -21,6 +21,7 @@
 
 # Projects
 
+- **[EarthvsAliens](https://github.com/alperugurca/EarthvsAliens)** - Idle strategy and war simulation game. Windows app.
 - **[c64TavernTales](https://github.com/alperugurca/c64TavernTales)** - Retro Idle RPG game. Web app.
 - **[thenudge](https://github.com/alperugurca/thenudge)** - Create notes with alarms to remind. Windows app.
 - **[PushToTalkSTT](https://github.com/alperugurca/PushToTalkSTT)** - Offline speech-to-text app. High system requirements. Windows app.
