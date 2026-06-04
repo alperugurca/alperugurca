@@ -20,7 +20,6 @@
 - [All Repos](https://github.com/alperugurca?tab=repositories)
 
 # Projects
-https://github.com/alperugurca/endlessidlerpg
 
 - **[endlessidlerpg](https://github.com/alperugurca/endlessidlerpg)** - Offline endless idle RPG game. Android app.
 - **[EarthvsAliens](https://github.com/alperugurca/EarthvsAliens)** - Idle strategy and war simulation game. Windows app.
