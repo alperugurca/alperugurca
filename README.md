@@ -21,6 +21,7 @@
 
 # Projects
 
+- **[ClipboardEasy](https://github.com/alperugurca/ClipboardEasy)** - Clipboard history manager. Windows app.
 - **[endlessidlerpg](https://github.com/alperugurca/endlessidlerpg)** - Offline endless idle RPG game. Android app.
 - **[EarthvsAliens](https://github.com/alperugurca/EarthvsAliens)** - Idle strategy and war simulation game. Windows app.
 - **[c64TavernTales](https://github.com/alperugurca/c64TavernTales)** - Retro Idle RPG game. Web app.
