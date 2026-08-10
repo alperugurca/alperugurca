@@ -21,6 +21,7 @@
 
 # Projects
 
+- **[dictate](https://github.com/alperugurca/dictate)** - Push-to-talk dictation with local Whisper. Linux app.
 - **[What is that?](https://github.com/alperugurca/WhatISTHAT)** - Highlight text to get instant AI explanations. Chrome extension.
 - **[ClipboardEasy](https://github.com/alperugurca/ClipboardEasy)** - Clipboard history manager. Windows app.
 - **[endlessidlerpg](https://github.com/alperugurca/endlessidlerpg)** - Offline endless idle RPG game. Android app.
